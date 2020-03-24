@@ -1,1 +1,1 @@
-UPDATE name FROM characters WHERE name = cylon
+UPDATE name FROM characters SET Martian WHERE name = cylon
