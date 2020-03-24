@@ -29,4 +29,3 @@ CREATE TABLE characters (
   author_id INTEGER,
   id INTEGER PRIMARY KEY
 );
-
