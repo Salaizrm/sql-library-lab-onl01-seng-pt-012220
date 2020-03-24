@@ -1,4 +1,6 @@
 CREATE TABLE series (
-  title TEXT
+  title TEXT,
+  author_id INTEGER
+
 
 );
