@@ -1,1 +1,1 @@
-UPDATE name FROM characters WHERE id = 
+UPDATE name FROM characters WHERE name = cylon
